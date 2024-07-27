@@ -253,4 +253,8 @@ footer{
     #contact .container{
         height: 30vh;
     }
+    .mini-pro img{
+        height: 40rem;
+        width: 62rem;
+    }
 }
