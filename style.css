@@ -238,6 +238,10 @@ footer{
     #contact .container{
         height: 50vh;
     }
+    .mini-pro img{
+        height: 56rem;
+        width: 62rem;
+    }
 }
 @media(max-width:480px){
     html{
