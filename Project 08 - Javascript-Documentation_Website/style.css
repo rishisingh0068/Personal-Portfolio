@@ -94,3 +94,15 @@ footer {
     }
 }
     
+@media(max-width:780px){
+    body{
+        flex-direction: column;
+        
+    };
+    header{
+        height: 200px;
+        overflow: hidden;
+        overflow-y: scroll;
+    }
+}
+    
