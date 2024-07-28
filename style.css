@@ -239,7 +239,7 @@ footer{
         height: 50vh;
     }
 }
-@media(max-width:500px){
+@media(max-width:480px){
     html{
         font-size: 32%;
     }
