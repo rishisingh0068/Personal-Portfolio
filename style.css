@@ -133,6 +133,7 @@ nav li:hover{
     display:grid;
     grid-template-columns: repeat(auto-fit,minmax(320px,1fr));
     gap: 2rem; ;
+    padding: 2rem;
 }
 .grid-iteam{
     display: grid;
@@ -149,6 +150,9 @@ nav li:hover{
     border-radius: 0.5rem;
     overflow: hidden;
     transition:0.2s ease-in-out ;
+}
+.port-img img{
+    height:360px ;
 }
 .card:hover{
     transform: scale(1.05);
@@ -242,7 +246,7 @@ footer{
         height: 56rem;
         width: 62rem;
     }
-}
+} 
 @media(max-width:480px){
     html{
         font-size: 32%;
